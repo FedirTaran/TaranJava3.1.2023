@@ -32,6 +32,8 @@ public class HomeWork03 {
         Double aDouble = 17.6;
         String text = "text";
 
+
+
         System.out.println(aDouble);
         System.out.println(charValue);
         System.out.println(floatValue);
