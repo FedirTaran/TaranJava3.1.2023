@@ -15,9 +15,9 @@ public class HomeWork03 {
 
         float floatValue = 12.5F;
 
-        double doubleValue = 12.6;
+        double doubleValue = 12.7;
 
-        char charValue = 15;
+        char charValue = 17;
 
         char charValue01 = 125;
 
@@ -32,8 +32,7 @@ public class HomeWork03 {
         Double aDouble = 17.6;
         String text = "text";
 
-
-        System.out.println(testIntValue01);
+        System.out.println(aDouble);
         System.out.println(charValue);
         System.out.println(floatValue);
         System.out.println(booleanValue);
